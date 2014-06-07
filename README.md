@@ -1,1 +1,1 @@
-hey
+C++ program reads in avg monthly temp from 1800s to 2012 from a .txt file, stores into 2-d array, allows user to get specific info such as high, low temp for specific year, avg temp, etc
